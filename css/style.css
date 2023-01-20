@@ -1,0 +1,31 @@
+.bootins
+{
+    width:200px;
+    height:100px;
+    border: none;
+}
+body
+{
+    background-image: url(../assets/31373.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.rowFun
+{
+    margin-left:32% ;
+}
+
+.font47
+{
+    -webkit-text-fill-color: snow;
+}
+
+.rowBun
+{
+    margin-left: 43%;
+}
+
+.hide
+{
+    display: none;
+}
